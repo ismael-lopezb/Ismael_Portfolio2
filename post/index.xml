@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Ismael Lopez</title>
+    <link>https://ismael-lopezb.github.io/Ismael_Portfolio2/post/</link>
+    <description>Recent content in Projects on Ismael Lopez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://ismael-lopezb.github.io/Ismael_Portfolio2/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project II: Job Change of Data Scientists</title>
+      <link>https://ismael-lopezb.github.io/Ismael_Portfolio2/post/project-2/</link>
+      <pubDate>Sun, 28 Feb 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://ismael-lopezb.github.io/Ismael_Portfolio2/post/project-2/</guid>
+      <description> Predict if a data scientist candidate will work for a company. Cleaned over 20,000 data extracted from Kaggle. Performed an exploratory data analysis (EDA) and extracted valuable information from the data. Optimized Logistic Regression, K-Nearest Neighbours, Decission-Tree Classifier and Random Forest Classifier using GridsearchCV to reach the best model.     Link to gihub repository  </description>
+    </item>
+    
+    <item>
+      <title>Project I: Apartment Price Estimator</title>
+      <link>https://ismael-lopezb.github.io/Ismael_Portfolio2/post/project-1/</link>
+      <pubDate>Wed, 20 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://ismael-lopezb.github.io/Ismael_Portfolio2/post/project-1/</guid>
+      <description> Created a tool that estimates apartment price in Mexico City to help construction companies estimate the potential price of their apartments. Scraped over 25,000 apartment descriptions from Inmuebles24 using python and BeautifulSoup Engineered features from the text of each apartment description to quantify the value of amenities, such as pool, garden, etc. Optimized Linear, Ridge, and Gradient Boosting Regressor using GridsearchCV to reach the best model.   Price by Delegacion in millions of MXN     Correlation of each numeric variable   Link to github repository  </description>
+    </item>
+    
+  </channel>
+</rss>

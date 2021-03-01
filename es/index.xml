@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portafolio en Ciencia de Datos on Ismael Lopez</title>
+    <link>https://ismael-lopezb.github.io/Ismael_Portfolio2/es/</link>
+    <description>Recent content in Portafolio en Ciencia de Datos on Ismael Lopez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Feb 2021 11:00:59 -0400</lastBuildDate><atom:link href="https://ismael-lopezb.github.io/Ismael_Portfolio2/es/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Proyecto II: Cambio de trabajo de científicos de datos</title>
+      <link>https://ismael-lopezb.github.io/Ismael_Portfolio2/es/post/project-2/</link>
+      <pubDate>Sun, 28 Feb 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://ismael-lopezb.github.io/Ismael_Portfolio2/es/post/project-2/</guid>
+      <description> Predecir si un candidato a científico de datos trabajará para una empresa. Limpié más de 20,000 datos extraídos de Kaggle. Realicé un análisis exploratorio de datos (EDA) y extraje información valiosa de los datos. Optimicé Regresión logística, K-vecinos más cercanos, clasificador de árbol de decisión y Random Forest Classifier utilizando GridsearchCV para alcanzar el mejor modelo.     Enlace al repositorio de github  </description>
+    </item>
+    
+    <item>
+      <title>Proyecto I: Estimador de precios de apartamentos</title>
+      <link>https://ismael-lopezb.github.io/Ismael_Portfolio2/es/post/project-1/</link>
+      <pubDate>Wed, 20 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://ismael-lopezb.github.io/Ismael_Portfolio2/es/post/project-1/</guid>
+      <description>Creé una herramienta que estima el precio de los departamentos en la Ciudad de México para ayudar a las empresas constructoras a estimar el precio potencial de sus departamentos. Extraje más de 25,000 descripciones de apartamentos de Inmuebles24 usando Python y BeautifulSoup Cualidades diseñadas a partir del texto de la descripción de cada apartamento para cuantificar el valor de las amenidades, como piscina, jardín, etc. Optimicé regresión lineal, ridge regression y Gradient Boosting Regressor usando GridSearchCV para alcanzar el mejor modelo.</description>
+    </item>
+    
+    <item>
+      <title>Contacto</title>
+      <link>https://ismael-lopezb.github.io/Ismael_Portfolio2/es/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ismael-lopezb.github.io/Ismael_Portfolio2/es/contact/</guid>
+      <description>Si tiene alguna pregunta o cree que podría ser un buen fit para su empresa, siéntase libre de comunicarse conmigo.
+Tu nombre Dirección de correo electrónico Se requiere una dirección de correo electrónico.  Mensaje   </description>
+    </item>
+    
+  </channel>
+</rss>

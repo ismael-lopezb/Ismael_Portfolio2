@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>regression on Ismael Lopez</title>
+    <link>https://ismael-lopezb.github.io/Ismael_Portfolio2/tags/regression/</link>
+    <description>Recent content in regression on Ismael Lopez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Jan 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://ismael-lopezb.github.io/Ismael_Portfolio2/tags/regression/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project I: Apartment Price Estimator</title>
+      <link>https://ismael-lopezb.github.io/Ismael_Portfolio2/post/project-1/</link>
+      <pubDate>Wed, 20 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://ismael-lopezb.github.io/Ismael_Portfolio2/post/project-1/</guid>
+      <description> Created a tool that estimates apartment price in Mexico City to help construction companies estimate the potential price of their apartments. Scraped over 25,000 apartment descriptions from Inmuebles24 using python and BeautifulSoup Engineered features from the text of each apartment description to quantify the value of amenities, such as pool, garden, etc. Optimized Linear, Ridge, and Gradient Boosting Regressor using GridsearchCV to reach the best model.   Price by Delegacion in millions of MXN     Correlation of each numeric variable   Link to github repository  </description>
+    </item>
+    
+  </channel>
+</rss>

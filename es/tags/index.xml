@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Ismael Lopez</title>
+    <link>https://ismael-lopezb.github.io/Ismael_Portfolio2/es/tags/</link>
+    <description>Recent content in Tags on Ismael Lopez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Feb 2021 11:00:59 -0400</lastBuildDate><atom:link href="https://ismael-lopezb.github.io/Ismael_Portfolio2/es/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>classification</title>
+      <link>https://ismael-lopezb.github.io/Ismael_Portfolio2/es/tags/classification/</link>
+      <pubDate>Sun, 28 Feb 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://ismael-lopezb.github.io/Ismael_Portfolio2/es/tags/classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>regression</title>
+      <link>https://ismael-lopezb.github.io/Ismael_Portfolio2/es/tags/regression/</link>
+      <pubDate>Wed, 20 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://ismael-lopezb.github.io/Ismael_Portfolio2/es/tags/regression/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
